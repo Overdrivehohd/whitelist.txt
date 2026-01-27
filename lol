@@ -1,1 +1,2 @@
-["kacperpwtsimulator,Killmonger124"]
+["Killmonger124"]
+["kacperpwtsimulator"]
